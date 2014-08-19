@@ -29,7 +29,7 @@
 <div id="mission" class="panel">
   <div>
     <h2>ABOUT US</h2>
-    <p>We are a global crowd-funding platform for higher education that allows people to donate to individuals seeking higher education in developing worlds. At A FundED World, we believe that education is the is one of the most valuable assets a person has, and no one should be denied because of a lack of funds.
+    <p>We are a global crowd-funding platform for higher education that allows people to donate to individuals seeking higher education in developing worlds. At A FundED World, we believe that education is one of the most valuable assets a person has, and no one should be denied because of a lack of funds.
     </p>
   </div>
 </div>
